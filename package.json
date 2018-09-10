@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "errorhandler": "^1.5.0",
+    "eslint": "^5.0.1",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "mongoose": "^5.2.1",
+    "morgan": "^1.9.0",
+    "path": "^0.12.7"
+  },
+  "name": "blogrn",
+  "version": "1.0.0",
+  "description": "for learning purpose",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Node"
+  ],
+  "author": "Ludwik Kowalewski",
+  "license": "MIT"
+}
